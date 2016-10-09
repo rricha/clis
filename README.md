@@ -26,5 +26,5 @@ Time spent: `9 hours`
 
 ## Walkthrough Gif:
 
-`<Add your Walkthrough Gif here (by updating the image URL - file:///Users/rshah1/javascripting/lab1/clis/walkthrough.gif)>`
+`<Add your Walkthrough Gif here (by updating the image URL)>`
 ![Video Walkthrough](walkthrough.gif)

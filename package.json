@@ -27,7 +27,7 @@
     "type": "git",
     "url": "git://github.com/CrabDude/nodejs-clis.git"
   },
-  "author": "Adam Crabtree",
+  "author": "Richa Shah",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/CrabDude/nodejs-clis/issues"
